@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FullBarsMedia</title>
+    <description>Connect, Better.
+</description>
+    <link>http://fullbarsmedia.com/</link>
+    <atom:link href="http://fullbarsmedia.com/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sat, 02 Jun 2018 11:39:13 -0500</pubDate>
+    <lastBuildDate>Sat, 02 Jun 2018 11:39:13 -0500</lastBuildDate>
+    <generator>Jekyll v3.8.2</generator>
+    
+  </channel>
+</rss>
