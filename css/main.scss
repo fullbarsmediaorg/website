@@ -1833,12 +1833,12 @@ $baseurl: '{{ site.baseurl }}/images';
 		}
 	}
 
-	img.logoleft {
+img.logoleft {
     height: 100%;
 }
 
 header#header {
-    background-color: white;
+    background-color: white !important;
     opacity: 0.85;
 }
 a.menuToggle {
