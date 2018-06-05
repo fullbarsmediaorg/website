@@ -17,7 +17,7 @@ social:
   facebook-official: https://facebook.com/<username>
   google-plus-square: https://plus.google.com/u/0/+<username>
 destination: ./docs/
-include: ./_extra/CNAME, css/*
+include: ['./_extra/CNAME', './css/*']
 
 
 # Build settings
