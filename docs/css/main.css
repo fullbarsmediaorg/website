@@ -2701,3 +2701,8 @@ section#one {
   background: -webkit-linear-gradient(-45deg, #007bc1 65%, #0f919b 100%);
   background: linear-gradient(135deg, #007bc1 65%, #0f919b 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#007bc1', endColorstr='#bc0b44',GradientType=1 ); }
+
+h2, h3 {
+  font-family: "futura-pt" !important;
+  font-weight: lighter !important;
+  text-transform: uppercase !important; }
