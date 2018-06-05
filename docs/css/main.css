@@ -2706,3 +2706,9 @@ h2, h3 {
   font-family: "futura-pt" !important;
   font-weight: lighter !important;
   text-transform: uppercase !important; }
+
+section#banner {
+  height: 100vh !important; }
+
+h2.homeTitle {
+  font-size: 6vw !important; }
