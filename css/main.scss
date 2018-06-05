@@ -1832,3 +1832,27 @@ $baseurl: '{{ site.baseurl }}/images';
 			}
 		}
 	}
+
+	img.logoleft {
+    height: 100%;
+}
+
+header#header {
+    background-color: white;
+    opacity: 0.85;
+}
+a.menuToggle {
+    color: black !important;
+}
+.wrapper.style1 {
+    background-color: #0071bc !important;
+    }
+
+section#one {
+    background: #007bc1;
+    background: -moz-linear-gradient(-45deg, #007bc1 65%, #0f919b 100%);
+    background: -webkit-linear-gradient(-45deg, #007bc1 65%,#0f919b 100%);
+    background: linear-gradient(135deg, #007bc1 65%,#0f919b 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#007bc1', endColorstr='#bc0b44',GradientType=1 );
+}    
+

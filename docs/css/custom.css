@@ -1,0 +1,41 @@
+.wrapper.style1 {
+    background-color: #0071bc !important;
+    }
+
+.video {
+        position: absolute;
+        left: 0;
+        top: 0;
+        width: 100%;
+        height: 100%
+}
+
+.video iframe {
+    position: absolute;
+    z-index: 1;
+    width: 100%;
+    height: 100%;
+    }
+
+.video .overlay {
+    position: absolute;
+    z-index: 2;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255, 0, 0, 0.5);
+    }    
+   /*#22b573 */
+
+img.logoleft {
+    height: 100%;
+}
+
+header#header {
+    background-color: white;
+    opacity: 0.85;
+}
+a.menuToggle {
+    color: black !important;
+}
