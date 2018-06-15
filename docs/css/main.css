@@ -2712,3 +2712,7 @@ section#banner {
 
 h2.homeTitle {
   font-size: 6vw !important; }
+
+.applyNow {
+  max-width: 40vw;
+  margin: auto; }
